@@ -12,5 +12,5 @@ So lets get down to business:
         
 To define best-worst, good-bad we need a metric to measure life. Once we find this metric, we can make some observations about how it behaves wrt life. And then we can proceed ahead.
 To live life is to experience things. We usually classify our experiences according to how they make us feel: better or worse. So lemme rephrase the question: "How to live life so as to feel better (happier) about the experience (life)". 
-So lemme make a jump here: the sum total happiness in ones life is zero. 
+So lemme make a jump here: the sum total happiness in ones life is zero. Once cannot pull happiness out of nothing, if one is able to do so eventually the net value of the happiness boost will go down.
 
