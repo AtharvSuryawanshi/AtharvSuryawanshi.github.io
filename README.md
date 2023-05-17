@@ -6,6 +6,9 @@ So a little bit about myself, I am an undergrad at IISc who recently (and succes
 So as to what are my hobbies, I've literally explored so many hobbies over the years it's hard to point but here are some honnourable mentions: cycling, swimming, solving Rubik's cube and puzzles, writing small programs and just listening to music while existing simaltenously. 
 And yes trying to find some meaning in things, mostly life.
 
+So I'm trying to learn Github pages, lets make dropdown lists.
+
+Philosophy
 So lets get down to business:
 "WHAT IS THE BEST WAY TO LIVE LIFE?" 
         ~ some random dude in a spiritual congregation
@@ -13,4 +16,6 @@ So lets get down to business:
 To define best-worst, good-bad we need a metric to measure life. Once we find this metric, we can make some observations about how it behaves wrt life. And then we can proceed ahead.
 To live life is to experience things. We usually classify our experiences according to how they make us feel: better or worse. So lemme rephrase the question: "How to live life so as to feel better (happier) about the experience (life)". 
 So lemme make a jump here: the sum total happiness in ones life is zero. Once cannot pull happiness out of nothing, if one is able to do so eventually the net value of the happiness boost will go down.
+
+Random Pieces of code
 
